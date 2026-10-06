@@ -65,25 +65,3 @@ ProjectDock started as a personal tool to reduce the friction of working across 
 
 Instead of repeatedly navigating through folders and opening terminals manually, ProjectDock provides a single place to launch and inspect projects.
 
-## Roadmap
-
-* [ ] Project auto-discovery
-* [ ] Project favorites
-* [ ] Git status details
-* [ ] Git commit/push shortcuts
-* [ ] Dev-server launcher
-* [ ] Project notes
-* [ ] Custom project icons
-* [ ] Keyboard shortcuts
-* [ ] Project templates
-* [ ] Windows startup option
-
-## Status
-
-ProjectDock is currently in early development.
-
-The initial goal is to build a small, fast, useful tool first and expand it based on real usage.
-
-## License
-
-This project is currently private and is not licensed for redistribution.
